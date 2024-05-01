@@ -1,0 +1,25 @@
+{
+  "name": "riff-relm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "express": "^4.19.2",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.3",
+    "react": "^18.3.1",
+    "vite": "^5.2.10"
+  },
+  "devDependencies": {
+    "daisyui": "^4.10.2"
+  }
+}
