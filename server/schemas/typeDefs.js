@@ -5,6 +5,12 @@ type User {
   email: String!
   password: String!
   createdAt: Date
+  genres: [String!]
+}
+
+type: Auth {
+  token: ID!
+  profile: Profile
 }
 `
 
