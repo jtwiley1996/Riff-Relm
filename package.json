@@ -15,7 +15,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "daisyui": "^4.10.2",
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "daisyui": "^4.10.2"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.23.0"
   }
 }
